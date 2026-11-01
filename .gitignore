@@ -18,6 +18,9 @@ ENV/
 *.swp
 *.swo
 
+# FAISS index (rebuilt from data/)
+faiss_index/
+
 # OS
 .DS_Store
 Thumbs.db

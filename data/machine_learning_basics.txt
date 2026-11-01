@@ -1,0 +1,9 @@
+Machine learning is a subset of artificial intelligence that focuses on developing algorithms that can learn from data. There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning involves training a model on labeled data, where the correct output is known. Common algorithms include linear regression, logistic regression, decision trees, random forests, and support vector machines. The model learns to map inputs to outputs based on the training examples.
+
+Unsupervised learning works with unlabeled data to find hidden patterns or structures. Clustering algorithms like K-means and hierarchical clustering group similar data points together. Dimensionality reduction techniques like PCA (Principal Component Analysis) reduce the number of features while preserving important information.
+
+Reinforcement learning trains an agent to make decisions by interacting with an environment. The agent receives rewards or penalties based on its actions and learns to maximize cumulative reward over time. Applications include game playing, robotics, and autonomous vehicles.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers. Convolutional Neural Networks (CNNs) are widely used for image recognition, while Recurrent Neural Networks (RNNs) and Transformers are used for sequential data like text and time series. The transformer architecture, introduced in the paper "Attention is All You Need" in 2017, revolutionized natural language processing and led to models like BERT, GPT, and T5.
